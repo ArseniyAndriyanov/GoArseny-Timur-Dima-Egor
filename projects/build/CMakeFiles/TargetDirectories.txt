@@ -1,0 +1,4 @@
+/home/andryanov_arseny/projects/build/CMakeFiles/server.dir
+/home/andryanov_arseny/projects/build/CMakeFiles/client.dir
+/home/andryanov_arseny/projects/build/CMakeFiles/edit_cache.dir
+/home/andryanov_arseny/projects/build/CMakeFiles/rebuild_cache.dir
